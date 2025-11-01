@@ -1,6 +1,6 @@
 
 {
-  "name": "goatbit-tests",
+  "name": "unique-coin-tests",
   "version": "1.0.0",
   "description": "Run unit tests on this project.",
   "type": "module",
